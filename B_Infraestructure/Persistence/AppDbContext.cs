@@ -77,7 +77,7 @@ namespace B_Infraestructure.Persistence
                     new Product{
                         ProductId = Guid.NewGuid(),
                         Name = "Lavaropas Carga Frontal",
-                        Description = "Lavaropas crgafrontal 6kg 800 RPM Drean Next 6.08 ECO",
+                        Description = "Lavaropas carga frontal 6kg 800 RPM Drean Next 6.08 ECO",
                         Price = 669999,
                         Category = 1,
                         Discount = 24},
@@ -109,11 +109,11 @@ namespace B_Infraestructure.Persistence
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Impresora multifuncion",
+                        Description = "Impresora Multifunción HP Deskjet 2775",
+                        Price = 189999,
+                        Category = 2,
+                        Discount = 10},
 
                     //Moda y accesorios
                     new Product{
