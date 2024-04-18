@@ -56,7 +56,7 @@ namespace B_Infraestructure.Persistence
                         Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
                         Price = 632798,
                         Category = 1,
-                        Discount = 7},
+                        Discount = 17},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
@@ -72,7 +72,7 @@ namespace B_Infraestructure.Persistence
                         Description = "Smart TV 32 pulgadas HD Android TV Admiral AD32E3A",
                         Price = 199999,
                         Category = 1,
-                        Discount = 3},
+                        Discount = 30},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
@@ -142,11 +142,11 @@ namespace B_Infraestructure.Persistence
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Cartera",
+                        Description = "Cartera / Bandolera importada rígida matelasse soft cuadrado con doble broche imantado.  Manija corta fija y manija larga desmontable y regulable.",
+                        Price = 12500,
+                        Category = 3,
+                        Discount = 5},
 
                     //Hogar y decoraccion
                     new Product{
