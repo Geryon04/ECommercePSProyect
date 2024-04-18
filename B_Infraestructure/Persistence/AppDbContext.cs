@@ -93,19 +93,19 @@ namespace B_Infraestructure.Persistence
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Celular Xiaomi",
+                        Description = "Celular Xiaomi Redmi Note 11 128GB Negro",
+                        Price = 339999,
+                        Category = 2,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Notebook Lenovo",
+                        Description = "Notebook Lenovo IdeaPad 1 14” Intel Celeron 4GB 128GB SSD 82V60027AR",
+                        Price = 699999,
+                        Category = 2,
+                        Discount = 14},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
