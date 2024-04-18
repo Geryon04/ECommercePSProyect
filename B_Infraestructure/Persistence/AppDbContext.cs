@@ -151,11 +151,11 @@ namespace B_Infraestructure.Persistence
                     //Hogar y decoraccion
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Sillas de comedor",
+                        Description = "Combo 4 Silla de Comedor Eames Home",
+                        Price = 163017,
+                        Category = 4,
+                        Discount = 30},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
