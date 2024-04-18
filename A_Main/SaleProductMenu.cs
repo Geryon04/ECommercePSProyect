@@ -17,6 +17,7 @@ namespace A_Main
             Console.WriteLine("ingrese un producto");
             product = Console.ReadLine();
             _register.SaleRegister(product);
+            Console.WriteLine("Venta registrada");
         }
     }
 }
