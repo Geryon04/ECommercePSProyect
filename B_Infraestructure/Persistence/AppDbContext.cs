@@ -159,11 +159,11 @@ namespace B_Infraestructure.Persistence
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Sillon individual",
+                        Description = "Sillón Individual escandinavo CH25 Hansen",
+                        Price = 971285,
+                        Category = 4,
+                        Discount = 25},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
