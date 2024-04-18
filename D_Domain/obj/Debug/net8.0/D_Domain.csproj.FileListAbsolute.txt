@@ -1,0 +1,11 @@
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/bin/Debug/net8.0/D_Domain.deps.json
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/bin/Debug/net8.0/D_Domain.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/bin/Debug/net8.0/D_Domain.pdb
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/D_Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/D_Domain.AssemblyInfoInputs.cache
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/D_Domain.AssemblyInfo.cs
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/D_Domain.csproj.CoreCompileInputs.cache
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/D_Domain.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/refint/D_Domain.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/D_Domain.pdb
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/ref/D_Domain.dll

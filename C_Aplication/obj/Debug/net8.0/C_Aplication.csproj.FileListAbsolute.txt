@@ -1,0 +1,15 @@
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplication.csproj.AssemblyReference.cache
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplication.AssemblyInfoInputs.cache
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplication.AssemblyInfo.cs
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplication.csproj.CoreCompileInputs.cache
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/bin/Debug/net8.0/C_Aplication.deps.json
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/bin/Debug/net8.0/C_Aplication.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/bin/Debug/net8.0/C_Aplication.pdb
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/bin/Debug/net8.0/D_Domain.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/bin/Debug/net8.0/D_Domain.pdb
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplica.E0657718.Up2Date
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplication.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/refint/C_Aplication.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplication.pdb
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/ref/C_Aplication.dll
