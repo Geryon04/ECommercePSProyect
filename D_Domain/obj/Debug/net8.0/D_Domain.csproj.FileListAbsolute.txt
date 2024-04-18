@@ -9,3 +9,4 @@
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/refint/D_Domain.dll
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/D_Domain.pdb
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/ref/D_Domain.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/D_Domain/obj/Debug/net8.0/D_Domain.sourcelink.json

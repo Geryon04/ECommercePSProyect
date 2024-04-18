@@ -17,3 +17,4 @@
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/B_Infraestructure/obj/Debug/net8.0/B_Infraestructure.pdb
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/B_Infraestructure/obj/Debug/net8.0/B_Infraestructure.genruntimeconfig.cache
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/B_Infraestructure/obj/Debug/net8.0/ref/B_Infraestructure.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/B_Infraestructure/obj/Debug/net8.0/B_Infraestructure.sourcelink.json

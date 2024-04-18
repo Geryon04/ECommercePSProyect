@@ -134,3 +134,4 @@
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/A_Main/obj/Debug/net8.0/A_Main.pdb
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/A_Main/obj/Debug/net8.0/A_Main.genruntimeconfig.cache
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/A_Main/obj/Debug/net8.0/ref/A_Main.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/A_Main/obj/Debug/net8.0/A_Main.sourcelink.json

@@ -13,3 +13,4 @@
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/refint/C_Aplication.dll
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplication.pdb
 /home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/ref/C_Aplication.dll
+/home/juan/Documentos/Material de la UNAJ/Proyecto software/2024/Ecommerce/ECommerce8/C_Aplication/obj/Debug/net8.0/C_Aplication.sourcelink.json

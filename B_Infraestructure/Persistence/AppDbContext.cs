@@ -29,7 +29,7 @@ namespace B_Infraestructure.Persistence
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
-           optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=demo;User Id=sa;Password=Nofuture04;TrustServerCertificate=true");
+           optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=Espinosa_Juan;User Id=sa;Password=Nofuture04;TrustServerCertificate=true");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder){
@@ -200,184 +200,184 @@ namespace B_Infraestructure.Persistence
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Serum bifasico",
+                        Description = "Serum bifasico revitalizante con niacinamida y agua de rosas",
+                        Price = 5000,
+                        Category = 5,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Suero hialuronico",
+                        Description = "Suero hialuronico + niacinamida marca Libra Cosmetica",
+                        Price = 6752,
+                        Category = 5,
+                        Discount = 0},
 
                     //Deportes y ocio
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Zapatillas Deportivas",
+                        Description = "Zapatillas deportivas de entrenamiento Topper Squat",
+                        Price = 50000,
+                        Category = 6,
+                        Discount = 12},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Shorts deportivos",
+                        Description = "Shorts Alfest - futbol, running, basquet, gimnasio",
+                        Price = 4440,
+                        Category = 6,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Bote inflable",
+                        Description = "Bestway 61052 bote inflable viaje/ocio",
+                        Price = 21880,
+                        Category = 6,
+                        Discount = 10},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Tabla de surf",
+                        Description = "Tabla de surf 5.10 A 6.4 Stickwave",
+                        Price = 863000,
+                        Category = 6,
+                        Discount = 20},
 
                     //Juguetes y juegos
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Jenga",
+                        Description = "Jenga de mesa 54 piezas Wiss Toy",
+                        Price = 9900,
+                        Category = 7,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Set de policia",
+                        Description = "Set policia super realista, 6 piezas  con helicoptero - 10909",
+                        Price = 5520,
+                        Category = 7,
+                        Discount = 10},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Juego de encastre",
+                        Description = "Momodisk - Juego de encastre gigante de 25 piezas",
+                        Price = 48500,
+                        Category = 7,
+                        Discount = 15},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Camion de juguete",
+                        Description = "Camion militar desarmable de juguete con herramientas",
+                        Price = 2400,
+                        Category = 7,
+                        Discount = 0},
 
                     //Alimentos y bebidas
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Leche entera",
+                        Description = "Leche entera larga vida Veronica Tetra x 1Lt",
+                        Price = 478,
+                        Category = 8,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Coca-Cola",
+                        Description = "Coca-Cola original, gaseosa sabor cola",
+                        Price = 2900,
+                        Category = 8,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Pure de tomate",
+                        Description = "Pure de tomate Noel Brick x 520 Gr",
+                        Price = 970,
+                        Category = 8,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Jugo en polvo",
+                        Description = "Jugo en polvo Arcor Naranja dulce 18 Gr",
+                        Price = 250,
+                        Category = 8,
+                        Discount = 0},
 
                     //Libros y material educativo
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Redes de computadoras",
+                        Description = "Libro 'Redes de computadoras' de Andrew S. Tanenbaum Nva Edicion",
+                        Price = 58000,
+                        Category = 9,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Flashcards de anatomia",
+                        Description = "Libro 'Netter flashcards de anatomia: miembros' de John Hansen ",
+                        Price = 40153,
+                        Category = 9,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "El señor de los anillos",
+                        Description = "coleccion El señor de los anillos - Tolkien - Set x 3 libros",
+                        Price = 39900,
+                        Category = 9,
+                        Discount = 10},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Dune",
+                        Description = "Saga de libros Dune 1-6 - Frank Herbert",
+                        Price = 109000,
+                        Category = 9,
+                        Discount = 14},
 
                     //Jardineria y bricolaje
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Kit de jardineria",
+                        Description = "Kit de herramientas de jardineria Acero inoxidable C/bolsa",
+                        Price = 398689,
+                        Category = 10,
+                        Discount = 30},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Fumigador",
+                        Description = "Pulverizador fumigador para jardineria 2l Harden",
+                        Price = 2388,
+                        Category = 10,
+                        Discount = 0},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Kit de bricolaje",
+                        Description = "Kit de herramientas de bricolaje para el hogar 25 piezas",
+                        Price = 138460,
+                        Category = 10,
+                        Discount = 15},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7}
+                        Name = "Kit de silicona",
+                        Description = "Kit de fabricacion de mldes de silicona AB 1:1 para bricolaje",
+                        Price = 13886,
+                        Category = 10,
+                        Discount = 0}
                 );
             });
 
