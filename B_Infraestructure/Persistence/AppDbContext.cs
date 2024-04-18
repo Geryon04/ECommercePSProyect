@@ -85,11 +85,11 @@ namespace B_Infraestructure.Persistence
                     //Tecnologia y electronica
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Celular Samsung",
+                        Description = "Celular Samsung Galaxy A14 128GB Black",
+                        Price = 239999,
+                        Category = 2,
+                        Discount = 33},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
