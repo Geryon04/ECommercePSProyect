@@ -192,11 +192,11 @@ namespace B_Infraestructure.Persistence
 
                     new Product{
                         ProductId = Guid.NewGuid(),
-                        Name = "Heladera con freezer",
-                        Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
-                        Price = 632798,
-                        Category = 1,
-                        Discount = 7},
+                        Name = "Kit para piel cabelluda",
+                        Description = "Kit Regulacion Piel Cabelluda Mixta/grasa( Incluye Neceser + Instructivo de uso)",
+                        Price = 36600,
+                        Category = 5,
+                        Discount = 13},
 
                     new Product{
                         ProductId = Guid.NewGuid(),
