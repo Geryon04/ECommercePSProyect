@@ -102,7 +102,7 @@ namespace B_Infraestructure.Persistence
                     new Product{
                         ProductId = Guid.NewGuid(),
                         Name = "Notebook Lenovo",
-                        Description = "Notebook Lenovo IdeaPad 1 14” Intel Celeron 4GB 128GB SSD 82V60027AR",
+                        Description = "Notebook Lenovo IdeaPad 1 14 pulgadas Intel Celeron 4GB 128GB SSD 82V60027AR",
                         Price = 699999,
                         Category = 2,
                         Discount = 14},
