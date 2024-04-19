@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using C_Aplication.Interfaces;
 using D_Domain.Entities;
 
-namespace A_Main
+namespace A_Main.MenuUser
 {
     public class ProductDetail
     {

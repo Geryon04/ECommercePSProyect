@@ -123,7 +123,7 @@ namespace B_Infraestructure.Migrations
                     b.HasData(
                         new
                         {
-                            ProductId = new Guid("106f1c8b-7db0-4544-81cc-d7d3781164ca"),
+                            ProductId = new Guid("674ebfa7-0e26-443e-b4af-f45e5fd62f5b"),
                             Category = 1,
                             Description = "Heladera con freezer Marca Dream Hdr280f00b blanca clase A",
                             Discount = 17,
@@ -132,7 +132,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("93f16da6-b694-4816-ac62-b4e2be7f7052"),
+                            ProductId = new Guid("e1c3a8b7-e1a3-47f0-a576-0e9cf84c7212"),
                             Category = 1,
                             Description = "Aire acondicionado split frio/calor Carrier XPower 5120W 4400F 53HVG1801E",
                             Discount = 0,
@@ -141,7 +141,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("1138ca5c-9bdf-47ca-9ee4-c3217b746b93"),
+                            ProductId = new Guid("bf17ca72-e467-49a9-8fd3-faec0be8e176"),
                             Category = 1,
                             Description = "Smart TV 32 pulgadas HD Android TV Admiral AD32E3A",
                             Discount = 30,
@@ -150,7 +150,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("ca69a1e6-1ca7-41b4-b544-0d835d0eebb2"),
+                            ProductId = new Guid("f6ef8035-7b6e-4c35-a472-6d7938e20ef9"),
                             Category = 1,
                             Description = "Lavaropas carga frontal 6kg 800 RPM Drean Next 6.08 ECO",
                             Discount = 24,
@@ -159,7 +159,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("acf8c593-e5e2-41c8-8f53-b8c717ef16d2"),
+                            ProductId = new Guid("40fac4fd-909f-4061-ad7c-7ce74a9cafab"),
                             Category = 2,
                             Description = "Celular Samsung Galaxy A14 128GB Black",
                             Discount = 33,
@@ -168,7 +168,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("38f8f4bb-fd25-46ed-bafb-cf49a185c4cc"),
+                            ProductId = new Guid("0082469e-6f92-4139-9c30-0b3c486ea6dc"),
                             Category = 2,
                             Description = "Celular Xiaomi Redmi Note 11 128GB Negro",
                             Discount = 0,
@@ -177,7 +177,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("f97be315-939b-4334-8613-cadfc89cfa88"),
+                            ProductId = new Guid("6d3007ff-32da-4b5f-b32b-b766405c12dd"),
                             Category = 2,
                             Description = "Notebook Lenovo IdeaPad 1 14 pulgadas Intel Celeron 4GB 128GB SSD 82V60027AR",
                             Discount = 14,
@@ -186,7 +186,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("0b2824cf-8391-41ff-8cd1-398ffeee809d"),
+                            ProductId = new Guid("ca0d9435-2f57-489b-8bff-459e6e2dc092"),
                             Category = 2,
                             Description = "Impresora Multifunción HP Deskjet 2775",
                             Discount = 10,
@@ -195,7 +195,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("7caf1c58-e3bd-48b0-b08f-f314a2b6b632"),
+                            ProductId = new Guid("f7fe379d-aea7-4489-a7c4-e15ae403b793"),
                             Category = 3,
                             Description = "Campera canguro ride",
                             Discount = 0,
@@ -204,7 +204,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("9fd3b5db-52cf-4893-ab5c-22473523755c"),
+                            ProductId = new Guid("ab87f527-8161-4cf9-9eef-87cf760319c6"),
                             Category = 3,
                             Description = "Buzo Anorak new fit",
                             Discount = 45,
@@ -213,7 +213,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("7d3a0085-6ed1-4a3f-9dad-7ae728134ca4"),
+                            ProductId = new Guid("c5fe47b5-e502-46f3-a052-455bd3913f56"),
                             Category = 3,
                             Description = "Bufanda de lana estampada desflecada",
                             Discount = 0,
@@ -222,7 +222,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("15bb89aa-5e21-4a40-af1f-6f46b27232b1"),
+                            ProductId = new Guid("62c3041a-a7d0-4f23-86e1-550c5f504d0c"),
                             Category = 3,
                             Description = "Cartera / Bandolera importada rígida matelasse soft cuadrado con doble broche imantado.  Manija corta fija y manija larga desmontable y regulable.",
                             Discount = 5,
@@ -231,7 +231,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("1f2dcca4-2e8c-4254-8d19-2349177b5c27"),
+                            ProductId = new Guid("87b6b5dc-cca4-4ff0-ba27-fd7a2ca60f91"),
                             Category = 4,
                             Description = "Combo 4 Silla de Comedor Eames Home",
                             Discount = 30,
@@ -240,7 +240,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("2c09e78a-c519-461e-ba36-904ada2ac255"),
+                            ProductId = new Guid("86326528-3e67-475d-a014-64e7f59e1a10"),
                             Category = 4,
                             Description = "Sillón Individual escandinavo CH25 Hansen",
                             Discount = 25,
@@ -249,7 +249,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("95c53e4a-516a-4040-919c-c0a9b0cd88eb"),
+                            ProductId = new Guid("55bd8d63-244b-4712-80c9-9e2da6c39516"),
                             Category = 4,
                             Description = "Mesa de Comedor Thora",
                             Discount = 30,
@@ -258,7 +258,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("8c969cf1-1fe7-4cfb-93a7-833f91503138"),
+                            ProductId = new Guid("5bd32ad0-afdc-4166-91ce-66bfd70cde53"),
                             Category = 4,
                             Description = "Juego de Living de 3 Sillones + Mesa Salerno",
                             Discount = 25,
@@ -267,7 +267,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("7c2b4f7a-af1b-4639-8e5c-1fe0ff856e01"),
+                            ProductId = new Guid("e13e16ef-b638-40d1-bbad-36048bdf905e"),
                             Category = 5,
                             Description = "Kit doble de limpieza para pieles grasas libra niacinamida",
                             Discount = 0,
@@ -276,7 +276,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("f64d44cc-acce-4f55-bbf8-5504e54035fd"),
+                            ProductId = new Guid("e4e16bd1-3ab6-4871-8c52-fe6b4ca24c24"),
                             Category = 5,
                             Description = "Kit Regulacion Piel Cabelluda Mixta/grasa( Incluye Neceser + Instructivo de uso)",
                             Discount = 13,
@@ -285,7 +285,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("d84e6c21-48e3-413f-b71b-7fe211b09491"),
+                            ProductId = new Guid("57bbd1e2-d068-4745-9b83-02c5a6670d66"),
                             Category = 5,
                             Description = "Serum bifasico revitalizante con niacinamida y agua de rosas",
                             Discount = 0,
@@ -294,7 +294,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("1e15d0c2-b910-46ba-9b0c-02fd53c6f541"),
+                            ProductId = new Guid("72945199-3f8c-4257-abab-1f01ada8d0ba"),
                             Category = 5,
                             Description = "Suero hialuronico + niacinamida marca Libra Cosmetica",
                             Discount = 0,
@@ -303,7 +303,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("391766d3-4325-445a-9b39-026ded74be4b"),
+                            ProductId = new Guid("51496559-9837-4336-ac9c-e0ed009a3008"),
                             Category = 6,
                             Description = "Zapatillas deportivas de entrenamiento Topper Squat",
                             Discount = 12,
@@ -312,7 +312,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("89059776-1f9c-4796-87d9-3ae374aafa9b"),
+                            ProductId = new Guid("b7eb07d1-b639-48f6-a01d-4b039fc0c3c6"),
                             Category = 6,
                             Description = "Shorts Alfest - futbol, running, basquet, gimnasio",
                             Discount = 0,
@@ -321,7 +321,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("fb4eef76-0af4-4918-b160-1ac9c5aa451d"),
+                            ProductId = new Guid("949a745a-6aa3-4032-a1e3-4b2476fe363f"),
                             Category = 6,
                             Description = "Bestway 61052 bote inflable viaje/ocio",
                             Discount = 10,
@@ -330,7 +330,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("07839859-d1a4-44ff-b343-0346dfa42264"),
+                            ProductId = new Guid("570bcbc5-9a90-4fbe-a97b-b68bd570cccd"),
                             Category = 6,
                             Description = "Tabla de surf 5.10 A 6.4 Stickwave",
                             Discount = 20,
@@ -339,7 +339,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("02d4f455-ba93-4336-8571-e1eb2fee92fd"),
+                            ProductId = new Guid("fcb507a7-2906-4d12-8661-603ff39121d8"),
                             Category = 7,
                             Description = "Jenga de mesa 54 piezas Wiss Toy",
                             Discount = 0,
@@ -348,7 +348,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("371bdb06-92b7-489e-a0c1-d20208ab9803"),
+                            ProductId = new Guid("1207b83b-6f3d-4cc9-a3d4-d0a17ed490de"),
                             Category = 7,
                             Description = "Set policia super realista, 6 piezas  con helicoptero - 10909",
                             Discount = 10,
@@ -357,7 +357,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("28f5e769-b739-416d-9747-55c36627b623"),
+                            ProductId = new Guid("8d8c6de2-2c43-474b-917b-4d6e4953ac06"),
                             Category = 7,
                             Description = "Momodisk - Juego de encastre gigante de 25 piezas",
                             Discount = 15,
@@ -366,7 +366,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("db017c55-337d-421d-b664-b5f6ecdef2a1"),
+                            ProductId = new Guid("5025d569-dfa4-4699-b9bd-b10b8013788f"),
                             Category = 7,
                             Description = "Camion militar desarmable de juguete con herramientas",
                             Discount = 0,
@@ -375,7 +375,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("5ebd65fe-f635-4871-aeab-7279c0929b06"),
+                            ProductId = new Guid("a15ac31c-a7ad-42c9-87d4-7155b8f4cf4f"),
                             Category = 8,
                             Description = "Leche entera larga vida Veronica Tetra x 1Lt",
                             Discount = 0,
@@ -384,7 +384,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("e76b68f6-306f-40fe-9c57-2d06278c5475"),
+                            ProductId = new Guid("cb99267a-26b1-4b9b-93ff-30bff3081808"),
                             Category = 8,
                             Description = "Coca-Cola original, gaseosa sabor cola",
                             Discount = 0,
@@ -393,7 +393,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("b38950e7-4b9d-4ab0-b3d8-1b3524cedd1c"),
+                            ProductId = new Guid("d97fe8a2-1d6f-4ea3-ad45-c39f3f90cfa0"),
                             Category = 8,
                             Description = "Pure de tomate Noel Brick x 520 Gr",
                             Discount = 0,
@@ -402,7 +402,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("f937abb5-4360-4abc-a3b7-12438e30deee"),
+                            ProductId = new Guid("377314d2-9780-41c3-907e-acc74ac35edf"),
                             Category = 8,
                             Description = "Jugo en polvo Arcor Naranja dulce 18 Gr",
                             Discount = 0,
@@ -411,7 +411,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("fc98de65-1b25-42a8-aae5-143a6e102def"),
+                            ProductId = new Guid("acfacd42-a98e-462a-a3a8-6fe05991cbe2"),
                             Category = 9,
                             Description = "Libro 'Redes de computadoras' de Andrew S. Tanenbaum Nva Edicion",
                             Discount = 0,
@@ -420,7 +420,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("190db97f-b960-4131-8f85-4eaf7dff705f"),
+                            ProductId = new Guid("bdd61dc0-1b64-4f77-a9f1-728e9299d18a"),
                             Category = 9,
                             Description = "Libro 'Netter flashcards de anatomia: miembros' de John Hansen ",
                             Discount = 0,
@@ -429,7 +429,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("fb67ac6b-2b6f-4dd7-82ec-4bf771b7292a"),
+                            ProductId = new Guid("c1c004c0-7fbe-4757-a3e2-c4f61f13520a"),
                             Category = 9,
                             Description = "coleccion El señor de los anillos - Tolkien - Set x 3 libros",
                             Discount = 10,
@@ -438,7 +438,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("d3a10f54-d5bb-408c-9b9a-4efda318e953"),
+                            ProductId = new Guid("6f2e5e5f-bab1-4d82-a408-fedd145a0c96"),
                             Category = 9,
                             Description = "Saga de libros Dune 1-6 - Frank Herbert",
                             Discount = 14,
@@ -447,7 +447,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("38cdec18-ace9-412e-ab66-41294cb32161"),
+                            ProductId = new Guid("b020fa0a-5492-4ba5-ab13-f6051e24e0ba"),
                             Category = 10,
                             Description = "Kit de herramientas de jardineria Acero inoxidable C/bolsa",
                             Discount = 30,
@@ -456,7 +456,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("272d2a15-bbec-490f-bc43-f43dd28df9ba"),
+                            ProductId = new Guid("872220da-b547-4567-bfad-0315377c18c7"),
                             Category = 10,
                             Description = "Pulverizador fumigador para jardineria 2l Harden",
                             Discount = 0,
@@ -465,7 +465,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("bfc2103b-35b9-4ccc-b550-e7a61361905e"),
+                            ProductId = new Guid("39fb84cd-fdfc-4ce8-9ae5-95f9b12e3fb9"),
                             Category = 10,
                             Description = "Kit de herramientas de bricolaje para el hogar 25 piezas",
                             Discount = 15,
@@ -474,7 +474,7 @@ namespace B_Infraestructure.Migrations
                         },
                         new
                         {
-                            ProductId = new Guid("5dde8e96-04d7-4b78-b9bc-34d318f1143a"),
+                            ProductId = new Guid("34ae22ca-a950-42e8-8c2a-55733aab344b"),
                             Category = 10,
                             Description = "Kit de fabricacion de mldes de silicona AB 1:1 para bricolaje",
                             Discount = 0,
