@@ -28,10 +28,6 @@ namespace B_Infraestructure.Persistence
 
         }
 
-        /*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
-           optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=Espinosa_Juan;User Id=sa;Password=Nofuture04;TrustServerCertificate=true");
-        }*/
-
         protected override void OnModelCreating(ModelBuilder modelBuilder){
             modelBuilder.Entity<Sale>(entity =>
             {

@@ -12,7 +12,6 @@ namespace D_Domain.Entities
         public string Description { get; set; }
         public decimal Price { get; set; }
         public int Discount { get; set; }
-        //public Uri Image { get; set; }
 
         public int Category { get; set; }
         public Category ProductCategory { get; set; }

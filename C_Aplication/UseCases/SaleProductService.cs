@@ -17,9 +17,7 @@ namespace C_Aplication.UseCases
 
         public SaleProduct CreateSaleProduct(Product product){
             decimal total = (product.Price - product.Discount) * 1.21M;
-            Random random = new Random();
             Sale sale = new Sale{
-                SaleId = random.Next(),
                 SubTotal = product.Price,
                 TotalDiscount = product.Discount,
                 Taxes = 1.21M,
@@ -35,8 +33,6 @@ namespace C_Aplication.UseCases
             };
             _command.InsertSaleProduct(sale , saleProduct);
             return saleProduct;
-            //var saleProduct = new SaleProduct();
-            //return saleProduct;
         }
         
     }
